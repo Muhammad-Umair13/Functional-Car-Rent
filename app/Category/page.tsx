@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import Image from 'next/image';
 import { LuArrowUpDown } from "react-icons/lu";
 import { IoMdHeart } from "react-icons/io";
-import { GoHeart } from "react-icons/go";
+// import { GoHeart } from "react-icons/go";
 import { FaGasPump } from "react-icons/fa6";
 import { MdPeopleAlt } from "react-icons/md";
 import { SiTraccar } from "react-icons/si";
